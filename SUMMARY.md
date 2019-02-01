@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Learn Cocos \(Cocos Creator\)](README.md)
+* [Untitled](untitled.md)
+* [Untitled](untitled-1.md)
 
