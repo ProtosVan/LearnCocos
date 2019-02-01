@@ -6,7 +6,7 @@ description: 这份学习手册会让你从另一个角度（不同于官方的�
 
 ## 第一节课
 
-在这节课的教程中，我们讲学习如何安装Cocos（Cocos Creator）。
+在这节课的教程中，我们将学习如何安装Cocos（Cocos Creator）。
 
 ### 安装Cocos（Cocos Creator）
 
