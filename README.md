@@ -14,5 +14,5 @@ Click [here](https://www.cocos.com/download) to the download page.
 
 ### Some problems
 
-If you are use multi-byte languages like Chinese, Japanese, it is highly recommended to install the 
+If you are use multi-byte languages like Chinese, Japanese, it is highly recommended to install the
 
