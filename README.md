@@ -1,10 +1,8 @@
 ---
-description: >-
-  This guide will lead you to learn Cocos (Cocos Creator) in a different
-  timeline.
+description: 这份学习手册会让你从另一个角度（不同于官方的学习向导）去学习Cocos（Cocos Creator）。
 ---
 
-# Learn Cocos \(Cocos Creator\)
+# 学习Cocos（Cocos Creator）
 
 ## First Class
 
