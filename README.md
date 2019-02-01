@@ -4,15 +4,27 @@ description: 这份学习手册会让你从另一个角度（不同于官方的�
 
 # 学习Cocos（Cocos Creator）
 
-## First Class
+## 第一节课
 
-The first class will let you learn how to install and run the Cocos Creator.
+在这节课的教程中，我们将学习如何安装Cocos（Cocos Creator）。
 
-### Install the Cocos Creator
+### 安装Cocos（Cocos Creator）
 
-Click [here](https://www.cocos.com/download) to the download page.
+点击[链接](https://www.cocos.com/download)去官网下载页面。
 
-### Some problems
+### 安装时可能会出现的问题
 
-If you are use multi-byte languages like Chinese, Japanese, it is highly recommended to install the
+{% hint style="danger" %}
+### 注意：此段仅代表笔者自身习惯，供参考，未得到考证
+
+如果你使用的是中文、日语等多字节语言的操作系统，推荐你使用纯英文路径。笔者在使用Unreal等引擎时常常会遇到路径乱码导致无法编译和运行的情况。
+
+笔者自身并不知道Cocos Creator对于多字节语言的支持程度如何，如果你正在使用多字节语言路径，并且没有出现任何问题，请与笔者练习以删去此警示。感激不尽。
+{% endhint %}
+
+如果遇到其他问题，请点击下方的参考链接。
+
+### 参考链接
+
+[**安装和启动Cocos Creator**](https://docs.cocos.com/creator/manual/zh/getting-started/install.html)
 
